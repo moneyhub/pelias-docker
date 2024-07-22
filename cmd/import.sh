@@ -22,7 +22,7 @@ register 'import' 'csv' '(re)import csv data' import_csv
 # note: running importers in parallel can cause issues due to high CPU & RAM requirements.
 function import_all(){
   import_wof
-  import_oa
+#  import_oa
   import_osm
   import_polylines
 
