@@ -16,7 +16,7 @@ services:
     volumes:
       - "./pelias.json:/code/pelias.json"
   api:
-    image: quay.io/momentumft/pelias-api:1
+    image: quay.io/momentumft/pelias-api:2
     container_name: pelias_api
     user: "${DOCKER_USER}"
     restart: always
