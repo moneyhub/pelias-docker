@@ -53,7 +53,7 @@ const mapping = {
     'bureau_de_change': ['currency-exchange'], // NEW COUNTERPARTY CATEGORY TO BE ADDED
 
     'clinic': ['healthcare'],
-    'dentist': ['healthcare'],
+    'dentist': ['dental'],
     'doctors': ['healthcare'],
     'hospital': ['healthcare'],
     'nursing_home': ['healthcare'],
