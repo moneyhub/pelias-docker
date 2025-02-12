@@ -20,7 +20,8 @@
   },
   "api": {
     "services": {
-    }
+    },
+    "optimiseThroughput": true
   },
   "imports": {
     "geonames": {
